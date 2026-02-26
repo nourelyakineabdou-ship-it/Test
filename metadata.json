@@ -1,0 +1,5 @@
+{
+  "name": "Nur Adhan",
+  "description": "A modern, minimalist prayer times app with automatic location detection, Qibla compass, and Adhan notifications.",
+  "requestFramePermissions": ["geolocation"]
+}
